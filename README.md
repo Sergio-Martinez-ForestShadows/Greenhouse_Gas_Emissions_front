@@ -101,6 +101,9 @@ VITE_API_BASE_URL=http://localhost:8000
 
 
 In production:
+First, before starting with the deployed URL, please initialize the backend IP address.
+
+Back-end url: https://greenhouse-gas-emissions-back.onrender.com/api/emissions/
 
 VITE_API_BASE_URL= https://greenhouse-gas-emissions-front.onrender.com/
 
