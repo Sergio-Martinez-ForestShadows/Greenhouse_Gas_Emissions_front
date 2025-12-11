@@ -102,7 +102,7 @@ VITE_API_BASE_URL=http://localhost:8000
 
 In production:
 
-VITE_API_BASE_URL=https://your-backend-service.onrender.com
+VITE_API_BASE_URL= https://greenhouse-gas-emissions-front.onrender.com/
 
 
 Your service should consume:
